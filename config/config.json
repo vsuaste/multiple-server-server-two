@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "sciencedb",
-    "password": "sciencedb",
-    "database": "sciencedb_development",
+    "username": "server_two",
+    "password": "server_two",
+    "database": "server_two",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "operatorsAliases": false
